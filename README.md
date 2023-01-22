@@ -60,6 +60,11 @@ This Project build in Next js, With MongoDB database. This application is fully 
 
 ![Payment Screen](https://user-images.githubusercontent.com/119804168/213914931-16d7c927-a5e1-4d10-8856-c97417dd8989.png)
 
+# Palce Order Screen 
+
+![PlaceOrder Details](https://user-images.githubusercontent.com/119804168/213915303-1e7d4f7b-b33f-4c45-9e00-3885ea112d9b.png)
+
+
 
 
 
